@@ -1,0 +1,24 @@
+{
+  "name": "smc",
+  "version": "0.0.0",
+  "description": "smart contact demo",
+  "main": "===",
+  "directories": {
+    "test": "==="
+  },
+  "dependencies": {
+    "ethereum-bridge": "0.6.1"
+  },
+  "scripts": {
+    "bridge": "./node_modules/.bin/ethereum-bridge -a 9 -H 127.0.0.1 -p 9545 --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "==="
+  },
+  "keywords": [
+    "==="
+  ],
+  "author": "===",
+  "license": "MIT"
+}
